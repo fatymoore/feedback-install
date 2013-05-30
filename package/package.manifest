@@ -1,6 +1,6 @@
 {
   "name": "Feedback App",
-  "package_path": "https://fatymoore.github.com/feedback-install/package/package.zip",
+  "package_path": "http://fatymoore.github.com/feedback-install/package/package.zip",
   "size": 2359,
   "version": "1.0",
   "description": "Feedback Demo App",
@@ -14,3 +14,5 @@
 }
 
 
+
+http://fatymoore.github.io/feedback-install
