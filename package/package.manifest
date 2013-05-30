@@ -1,0 +1,16 @@
+{
+  "name": "Feedback App",
+  "package_path": "https://fgl.github.com/feedback-app/package/package.zip",
+  "size": 2359,
+  "version": "1.0",
+  "description": "Feedback Demo App",
+  "launch_path": "index.html",
+  "orientation": ["portrait-primary"],
+  "developer": {
+    "name": "Fatima Gilmartin",
+    "url": "fgl@tid.es"
+  },
+  "default_locale": "en-US"
+}
+
+
